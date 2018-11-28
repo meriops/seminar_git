@@ -5,3 +5,7 @@ d <- read.csv("data.csv")
 
 
 head(d)
+
+names(d)
+
+
