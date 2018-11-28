@@ -8,4 +8,4 @@ head(d)
 
 names(d)
 
-
+summary(d)
